@@ -1,3 +1,4 @@
+--Show logged in user all of their reservations
 SELECT reservations.id, properties.title, properties.cost_per_night, reservations.start_date, avg(rating) as average_rating
 FROM reservations
 JOIN properties ON properties.id = reservations.property_id
