@@ -29,11 +29,11 @@ A simple multi-page Airbnb clone that uses a server-side Javascript to display t
 
 ## Screenshots
 
-### Mobile View
-!["Screenshot of mobile view"](docs/mobile-view.png)
+### View your listings when logged in
+!["Screenshot of user listings"](docs/userListings.png)
 
-### Desktop View
-!["Screenshot of desktop view"](docs/desktop-view.png)
+### View your reservations when logged in
+!["Screenshot of user reservations"](docs/userReservations.png)
 
-### Error Handling
-!["Screenshot of error handling"](docs/error-handling-view.png)
+### Search listings with city, minimum cost, maximum cost, and minimum rating filters
+!["Screenshot of search results"](docs/searchResults.png)
