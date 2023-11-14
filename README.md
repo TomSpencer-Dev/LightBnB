@@ -14,8 +14,7 @@ A simple multi-page Airbnb clone that uses a server-side Javascript to display t
   e. `\c lightbnb`
   f. Enter password
   g. `\i migrations/01_schema.sql`
-  h. `\i seeds/01_seeds.sql`
-  i. `\i seeds/02_seeds.sql`
+  h. `\i seeds/02_seeds.sql`
 5. To run the app, from the terminal in the LightBnB_WebApp directory type `npm run local`
 6. View in the browser on localhost:3000
 
